@@ -1,0 +1,64 @@
+body{
+    display: flex; 
+    flex-direction: row;  
+    justify-content: center;
+    align-items: center;
+}
+
+#container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    width: 575px;
+    height: 385px;
+    background: #1B244A;
+    border-radius: 30px;
+}
+
+#black-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    height: 120px;
+    width: 155px;
+    color: #F94F6D;
+    font-size: 90px;
+}
+
+.team-name{
+    font-size: 40px;
+    color: white;
+}
+
+#home-side{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#away-side{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#buttons-left{
+    margin-top: 20px;
+}
+
+#buttons-right{
+    margin-top: 20px;
+}
+
+button{
+    width: 45px;
+    height: 45px;
+    background: none;
+    color: #9AABD8;
+    border: 1px solid #9AABD8;
+}
