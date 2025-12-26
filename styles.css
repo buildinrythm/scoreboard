@@ -17,7 +17,7 @@ body{
     border-radius: 30px;
 }
 
-#black-box{
+#black-box-home{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,6 +28,16 @@ body{
     font-size: 90px;
 }
 
+#black-box-away{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    height: 120px;
+    width: 155px;
+    color: #F94F6D;
+    font-size: 90px;
+}
 .team-name{
     font-size: 40px;
     color: white;
@@ -61,4 +71,5 @@ button{
     background: none;
     color: #9AABD8;
     border: 1px solid #9AABD8;
+    cursor: pointer;
 }
