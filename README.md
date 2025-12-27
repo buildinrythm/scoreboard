@@ -1,4 +1,4 @@
-# scoreboard# 🏀 Basketball Scoreboard App
+## 🏀 Basketball Scoreboard App
 
 A simple basketball scoreboard built using **HTML, CSS, and JavaScript**.  
 The main goal of this project was to practice **JavaScript fundamentals**, DOM manipulation, and debugging common issues when connecting JavaScript to HTML.
